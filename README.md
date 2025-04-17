@@ -1,2 +1,2 @@
 # genbuilder_training
-Service for SDXL training. Based on diffusers library.
+Service for training diffusion generative models. Based on diffusers library

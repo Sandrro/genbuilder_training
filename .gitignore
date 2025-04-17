@@ -1,0 +1,5 @@
+*.log
+.env.*
+/wandb
+/genbuilder
+__pycache__
